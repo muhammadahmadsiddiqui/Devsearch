@@ -1,11 +1,5 @@
 # DevSearch
 
-Source code and resources for the Django 2021 Course.
-
-See the full course here: [Django Beginners Course](https://dennisivy.teachable.com/p/django-beginners-course)
-
----
-
 ## Installation
 
 1. Clone the repository:  
